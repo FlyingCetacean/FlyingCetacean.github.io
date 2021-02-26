@@ -13,18 +13,15 @@ layout: default
 
   <body>
     <!-- Ready to use Font Awesome. Activate interlock. Dynotherms - connected. Infracells - up. Icons are go! -->
-    <i class="fas fa-mobile"></i> +86 13883331456
+    <i class="fas fa-mobile"></i> +86 18818207576
   </body>
   
   <body>
     <!-- Ready to use Font Awesome. Activate interlock. Dynotherms - connected. Infracells - up. Icons are go! -->
-    <i class="fas fa-envelope"></i> pietychen@sjtu.edu.cn
+    <i class="fas fa-envelope"></i> wangzheng0079@sjtu.edu.cn
   </body>
   
-  <body>
-    <!-- Ready to use Font Awesome. Activate interlock. Dynotherms - connected. Infracells - up. Icons are go! -->
-    <i class="fas fa-file"></i><a href="http://www.baidu.com/">Download CV</a>
-  </body>
+  
 </html>
 
 
@@ -80,4 +77,3 @@ Honorable Mentions, MCM 2020
 
 ## Miscellaneous
 
-[![Peiyu Chen's github stats](https://github-readme-stats.vercel.app/api?username=PeiyuChen1005)](https://github.com/PeiyuChen1005)
