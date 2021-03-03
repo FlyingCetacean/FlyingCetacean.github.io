@@ -81,7 +81,7 @@ main{
         position: relative;
     }
     .sidebar .nav{
-        background: #f8bd24;
+        background: #d4d3ca;
         flex-direction: row;
         justify-content: center;
     }
@@ -122,7 +122,8 @@ main section{
 #team{ background: url(img/bg-3.png) fixed; }
 
 .title{
-    margin-bottom: 1em;
+    margin-bottom: 3em;
+    margin-left: -3em;
 }
 .title:before{
     float: left;
