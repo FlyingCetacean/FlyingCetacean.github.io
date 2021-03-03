@@ -62,7 +62,7 @@ a{ color: #4b4747; }
 }
 .sidebar .nav a{
     color: #fff;
-    padding: 1em;
+    padding: 1.5em;
     display: block;
     text-align: center;
     transition: background .3s, box-shadow .3s;
@@ -123,7 +123,6 @@ main section{
 
 .title{
     margin-bottom: 3em;
-    margin-left: -3em;
 }
 .title:before{
     float: left;
