@@ -117,8 +117,8 @@ main section{
 }
 
 #info{ background: url(img/bg-1.png) fixed; }
-#skills{ background: #d4cfcc; }
-#works{ background: url(img/bg-2.png) fixed; }
+#education{ background: #d4cfcc; }
+#project{ background: url(img/bg-2.png) fixed; }
 #team{ background: url(img/bg-3.png) fixed; }
 
 .title{
@@ -133,13 +133,13 @@ main section{
 #info .title:before{
     content: "\f005";
 }
-#skills .title:before{
+#education .title:before{
     content: "\f19d";
 }
-#works .title:before{
+#project .title:before{
     content: "\f091";
 }
-#story .title:before{
+#skills .title:before{
     content: "\f0b1";
 }
 #team .title:before{
@@ -147,35 +147,33 @@ main section{
 }
 
 /* - 技能 */
-.skills-icon{
+.education-icon{
     width: 100px;
     height: 100px;
     margin: 0 auto;
     background: #fff;
     border-radius: 100%;
     box-shadow: 0 5px rgba(0,0,0,0.3);
-}/*
-.skills-icon:hover i{
-    transform: rotate(1turn);
-}*/
-.skills-icon i{
+}
+
+.education-icon i{
     font-size: 50px;
     line-height: 100px;
     transition: transform 0.5s;
 }
-.skills-title{
+.education-title{
     margin-top: 1.5em;
     text-align: center;
 }
 
 /* - 作品 */
-.works-item img{
+.project-item img{
     transition: transform 0.3s;
 }
-.works-item img:hover{
+.project-item img:hover{
     transform: scale(1.05, 1.05);
 }
-.works-item p{
+.project-item p{
     padding: 1em 0;
     text-align: center;
 }

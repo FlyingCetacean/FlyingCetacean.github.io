@@ -1,0 +1,35 @@
+.school_link:hover {
+    display: block;
+    transform: scale(1.05, 1.05);
+}
+
+.myul {
+    margin-left: -0.5em;
+    list-style: none;
+}
+
+.myul li {
+    margin-right: 5em;
+    display: inline;
+}
+
+.edu_logo img {
+    transition: transform 0.3s;
+}
+
+.edu_logo img:hover {
+    transform: scale(1.05, 1.05);
+}
+
+.edu_text {
+    float: left;
+    width: 50%;
+}
+.edu_text h1{
+    font-style:italic;
+}
+
+.edu_logo {
+    float: right;
+    width: 50%;
+}
